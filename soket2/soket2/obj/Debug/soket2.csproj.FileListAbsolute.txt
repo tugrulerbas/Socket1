@@ -1,0 +1,13 @@
+C:\Users\Msi\Desktop\soket2\soket2\bin\Debug\soket2.exe.config
+C:\Users\Msi\Desktop\soket2\soket2\bin\Debug\soket2.exe
+C:\Users\Msi\Desktop\soket2\soket2\bin\Debug\soket2.pdb
+C:\Users\Msi\Desktop\soket2\soket2\bin\Debug\SimpleTCP.dll
+C:\Users\Msi\Desktop\soket2\soket2\obj\Debug\soket2.Form1.resources
+C:\Users\Msi\Desktop\soket2\soket2\obj\Debug\soket2.Properties.Resources.resources
+C:\Users\Msi\Desktop\soket2\soket2\obj\Debug\soket2.csproj.GenerateResource.Cache
+C:\Users\Msi\Desktop\soket2\soket2\obj\Debug\soket2.exe
+C:\Users\Msi\Desktop\soket2\soket2\obj\Debug\soket2.pdb
+C:\Users\Msi\Desktop\soket2\soket2\obj\Debug\soket2.csprojResolveAssemblyReference.cache
+C:\Users\Msi\Documents\GitHub\soket2\soket2\bin\Debug\soket2.exe.config
+C:\Users\Msi\Documents\GitHub\soket2\soket2\obj\Debug\soket2.exe
+C:\Users\Msi\Documents\GitHub\soket2\soket2\obj\Debug\soket2.pdb
